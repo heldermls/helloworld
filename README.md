@@ -1,2 +1,3 @@
-# helloworld
-primeiro repositorio 
+# hello world!
+Primeiro repositório. 
+Criado durante aula
